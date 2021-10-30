@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+.iframeDiv {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.vidHolder {
+    width: 400px;
+    height: 300px;
+}
+
+.buttonHolder {
+    display: flex;
+}
+
+.gifPanel {
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gifButton {
+    color: #fff817b8;
+    border: 2px solid;
+    width: 20em;
+    height: 2em;
+    margin: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    font-size: large;
+    font-family: monospace;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.gifBox {
+    display: inline-flex;
+    width: 19vw;
+    height: 100%;
+}
+
+.gifButton:hover {
+    background-color: #d3d3d357;
+}
