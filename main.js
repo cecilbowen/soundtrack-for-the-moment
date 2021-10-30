@@ -1,37 +1,37 @@
 const TRIUMPHANT = [
-  "https://www.youtube.com/watch?v=SBq-nM53lQM", //Food Wars - Study Both Sweet and Sour!
-  "https://www.youtube.com/watch?v=Jm7CJJ5OZAQ", //Food Wars - The Dish Toward Tomorrow
-  "https://www.youtube.com/watch?v=y3FL9nQgq8M", //Haikyuu - Team Potential
+  "https://www.youtube.com/watch?v=etJ_TkeeOqg", //Food Wars - Study Both Sweet and Sour!
+  "https://www.youtube.com/watch?v=LBS3IHq4v2M", //Food Wars - The Dish Toward Tomorrow
+  "https://www.youtube.com/watch?v=eStjX55PPDA", //Haikyuu - Team Potential
   "https://www.youtube.com/watch?v=VRkOpEnTcNk", //Sketch 3 - Against All Odds
-  "https://www.youtube.com/watch?v=RaG-fNJLLUk", //DanMachi - Heroic Desire (Bell vs Minotaur)
+  "https://www.youtube.com/watch?v=pWlfyXi0KYs", //DanMachi - Heroic Desire (Bell vs Minotaur)
   "https://youtu.be/7d8iM21dc5M", //Monster Hunter World - Victory
 ];
 
 const HOPEFUL = [
-  "https://www.youtube.com/watch?v=C4VpEaM9ZhA", //Food Wars - Song of Hope (Star Glass Version)
+  "https://www.youtube.com/watch?v=UrHLNhZTZic", //Food Wars - Song of Hope (Star Glass Version)
   "https://www.youtube.com/watch?v=n608d8oQiSM", //My Hero Academia - You Can Be a Hero
   "https://youtu.be/1Ne7oNIMJyA", //Chihayafuru - Main Theme
-  "https://youtu.be/cu_cq9WatBY", //Naruto Shippuden - Experienced Many Battles
+  "https://www.youtube.com/watch?v=t8EBnDzjKPc", //Naruto Shippuden - Sengunbanba (Experienced Many Battles)
   "https://youtu.be/4PuP7IkpRLU", //Attack on Titan - Counterattack Mankind
   "https://youtu.be/id3JORLgN9I", //Robotics Notes - Main Theme
   "https://youtu.be/t2tGEiYU9KU", //Code Geass - Madder Sky
-  "https://youtu.be/uu94eOQqYP4", //Magi - Enfin Apparu
+  "https://www.youtube.com/watch?v=GpWnN4u5-tg", //Magi - Enfin Apparu
 ];
 
 const WITNESS_FOOD = [
-  "https://www.youtube.com/watch?v=lAt4H-SGWgQ", //Food Wars - Welcome to the World of Gourmet Foods!
-  "https://www.youtube.com/watch?v=q_AC1hKdGq8", //Food Wars - The Palate that Transcends the Heavens
+  "https://www.youtube.com/watch?v=P8fe6PsF6gU", //Food Wars - Welcome to the World of Gourmet Foods!
+  "https://www.youtube.com/watch?v=HQ0X855EJU8", //Food Wars - The Palate that Transcends the Heavens
   "https://youtu.be/Uau48wh5CeI", //Puccini - Turandot: Nessun Dorma
   "https://youtu.be/rvQvcLXHWI4", //Verdi - La Traviata: Drinking Song
   "https://youtu.be/iyDOtpP_TPo", //Mangia! Italian Dinner Night - When In Rome
 ];
 
 const SAD = [
-    "https://www.youtube.com/watch?v=FoY2pbNhK4I", //Naruto - Sadness and Sorrow
-    "https://www.youtube.com/watch?v=RwWdqM-58M8", //Naruto - Shirohae
+    "https://www.youtube.com/watch?v=wEWF2xh5E8s", //Naruto - Sadness and Sorrow
+    "https://www.youtube.com/watch?v=FMNS7CiOicc", //Naruto - Shirohae
     "https://www.youtube.com/watch?v=UTo7E0evQWw", //Naruto - Sadness and Sorrow (Piano Version) Cover by Michael Tai
     "https://www.youtube.com/watch?v=qO_-b_1VWEk", //Code Vein - Memory of the Lost
-    "https://www.youtube.com/watch?v=kUzBQbajbvQ", //NieR - Grandma
+    "https://www.youtube.com/watch?v=Gm-X7KBBacM", //NieR - Grandma
 ];
 
 const VILLAIN = [
@@ -55,7 +55,7 @@ const SPEECH = [
 const HAPPY = [
     "https://www.youtube.com/watch?v=sLHZERGIGBM", //Pokemon D/P Anime - Route 201
     "https://www.youtube.com/watch?v=LB5PWnM6AlA", //Pokemon Anime - The Matter's Settled
-    "https://youtu.be/0k3onazsn_Q", //Naruto - Go Go Naruto!
+    "https://www.youtube.com/watch?v=rpq3BTlxFxw", //Naruto - Go Go Naruto!
     "https://youtu.be/k0JOxJaqDFE", //Bleach - Magot's Dance
     "https://youtu.be/OPFcWw_H2O4", //Hyouka - OST 42
     "https://youtu.be/vkuwMtGP8Xc", //Sankarea - Chihiro to Rea
@@ -89,7 +89,7 @@ const BATTLE = [
 
 const RAP = [
     "https://youtu.be/Ok2b0MrpA_0", //Zombieland Saga - Rap Battle
-    "https://youtu.be/23Hovo63hp4", //Devilman Crybaby - Raps
+    "https://youtu.be/waDOWwCp-kQ", //Devilman Crybaby - Raps
 ];
 
 //-------------------------------------------------------------------------------------------------------
